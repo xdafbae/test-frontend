@@ -1,4 +1,5 @@
 # SharingVision Frontend
+> **Test Submission by Dafa Yudistira**
 
 Dashboard manajemen artikel menggunakan **React + Vite** dan **Tailwind CSS**.
 
